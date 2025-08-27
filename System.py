@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import threading
 import queue
 import time
-import mysql.connector
+import MySQLdb
 import re
 import random
 import sys
